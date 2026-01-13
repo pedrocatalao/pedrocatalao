@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="20" role="img" aria-label="contributed repos">
+  <text x="0" y="15"
+        fill="#0f766e"
+        font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+        font-size="14">
+    contributed repos: 137
+  </text>
+</svg>
