@@ -1,4 +1,4 @@
 <p align="center">
-  <img width=450 src="https://github-readme-stats-inky-five-53.vercel.app/api?username=pedrocatalao&count_private=true&hide_title=true&theme=transparent&hide_border=true&text_bold=false&show=reviews&rank_icon=github&hide=contribs&show_icons=true&ok=o44kj31" />
+  <img width=450 src="https://github-readme-stats-inky-five-53.vercel.app/api?username=pedrocatalao&count_private=true&hide_title=true&theme=transparent&hide_border=true&text_bold=false&show=reviews&rank_icon=github&hide=contribs&show_icons=true&ok=o44kj3" />
   <img  width=350 src="https://github-readme-stats-inky-five-53.vercel.app/api/top-langs/?username=pedrocatalao&count_private=true&layout=compact&theme=transparent&hide_title=true&hide_border=true&hide=Batchfile,PHP&langs_count=6&exclude_repo=juca&ok=o3jssds" />
 </p>
