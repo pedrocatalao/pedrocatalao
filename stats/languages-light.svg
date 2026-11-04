@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="138" viewBox="0 0 350 138" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Most used languages</title>
+<desc id="desc">HCL 19.4%, Jinja 18.4%, Java 12.5%, Shell 10.3%, Vue 9.0%, JavaScript 8.0%, Other 22.4%</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .label { font-size: 13px; }
+  .value { font-size: 13px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .head { font-size: 11px; fill: #818b98; letter-spacing: 0.02em; }
+  .title { font-size: 15px; font-weight: 600; }
+  .secondary { fill: #59636e; }
+  .muted { fill: #818b98; }
+  .icon { fill: #59636e; }
+  .fade { animation: fade 0.45s ease-out both; }
+  .grow { transform-box: fill-box; transform-origin: left center; animation: grow 0.9s cubic-bezier(.2,.7,.2,1) 0.15s both; }
+  .ring { animation: ring 1.2s cubic-bezier(.2,.7,.2,1) 0.2s both; }
+  .pop { transform-box: fill-box; transform-origin: center; animation: pop 0.4s ease-out 0.5s both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @keyframes pop { from { opacity: 0; transform: scale(0.6); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="349" height="137" rx="6" fill="none" stroke="none"/>
+
+<mask id="bar"><rect class="grow" x="18" y="18" width="314" height="8" rx="4" fill="#fff"/></mask>
+<g mask="url(#bar)"><rect x="18.00" y="18" width="58.71" height="8" fill="#844FBA"/><rect x="78.71" y="18" width="55.61" height="8" fill="#a52a22"/><rect x="136.32" y="18" width="37.79" height="8" fill="#b07219"/><rect x="176.12" y="18" width="30.97" height="8" fill="#89e051"/><rect x="209.09" y="18" width="27.20" height="8" fill="#41b883"/><rect x="238.29" y="18" width="24.17" height="8" fill="#f1e05a"/><rect x="264.47" y="18" width="67.53" height="8" fill="#8c959f"/></g>
+<g transform="translate(18 46)"><g class="fade" style="animation-delay: 200ms"><circle cx="5" cy="5" r="5" fill="#844FBA"/><text x="16" y="9.5" class="label" style="font-size: 12px;">HCL</text><text x="145" y="9.5" class="value secondary" style="font-size: 12px; font-weight: 400;" text-anchor="end">19.4%</text></g></g>
+<g transform="translate(175 46)"><g class="fade" style="animation-delay: 270ms"><circle cx="5" cy="5" r="5" fill="#a52a22"/><text x="16" y="9.5" class="label" style="font-size: 12px;">Jinja</text><text x="145" y="9.5" class="value secondary" style="font-size: 12px; font-weight: 400;" text-anchor="end">18.4%</text></g></g>
+<g transform="translate(18 68)"><g class="fade" style="animation-delay: 340ms"><circle cx="5" cy="5" r="5" fill="#b07219"/><text x="16" y="9.5" class="label" style="font-size: 12px;">Java</text><text x="145" y="9.5" class="value secondary" style="font-size: 12px; font-weight: 400;" text-anchor="end">12.5%</text></g></g>
+<g transform="translate(175 68)"><g class="fade" style="animation-delay: 410ms"><circle cx="5" cy="5" r="5" fill="#89e051"/><text x="16" y="9.5" class="label" style="font-size: 12px;">Shell</text><text x="145" y="9.5" class="value secondary" style="font-size: 12px; font-weight: 400;" text-anchor="end">10.3%</text></g></g>
+<g transform="translate(18 90)"><g class="fade" style="animation-delay: 480ms"><circle cx="5" cy="5" r="5" fill="#41b883"/><text x="16" y="9.5" class="label" style="font-size: 12px;">Vue</text><text x="145" y="9.5" class="value secondary" style="font-size: 12px; font-weight: 400;" text-anchor="end">9.0%</text></g></g>
+<g transform="translate(175 90)"><g class="fade" style="animation-delay: 550ms"><circle cx="5" cy="5" r="5" fill="#f1e05a"/><text x="16" y="9.5" class="label" style="font-size: 12px;">JavaScript</text><text x="145" y="9.5" class="value secondary" style="font-size: 12px; font-weight: 400;" text-anchor="end">8.0%</text></g></g>
+<g transform="translate(18 112)"><g class="fade" style="animation-delay: 620ms"><circle cx="5" cy="5" r="5" fill="#8c959f"/><text x="16" y="9.5" class="label" style="font-size: 12px;">Other</text><text x="145" y="9.5" class="value secondary" style="font-size: 12px; font-weight: 400;" text-anchor="end">22.4%</text></g></g>
+</svg>
