@@ -3,3 +3,8 @@ user: pedrocatalao
 include:
   private: true
   orgs: true
+languages:
+  exclude: [Batchfile, PHP, HCL, Jinja, JavaScript]
+  other: false
+contributions:
+  hide: [anuraghazra/github-readme-stats]
