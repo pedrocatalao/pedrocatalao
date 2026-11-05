@@ -19,5 +19,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="stats/contributions-dark.svg">
   <img src="stats/contributions-light.svg" width="400" alt="Notable repo contributions">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/weekly-dark.svg">
+  <img src="stats/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
 </p>
 <!-- cool-readme:end -->
