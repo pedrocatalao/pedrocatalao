@@ -10,7 +10,7 @@ contributions:
   hide: [anuraghazra/github-readme-stats]
 summary:
   ring: github
-style: oled
+style: classic
 color: green
 matrix: true
 transparent: true
