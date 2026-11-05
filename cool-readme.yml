@@ -8,3 +8,5 @@ languages:
   other: false
 contributions:
   hide: [anuraghazra/github-readme-stats]
+summary:
+  ring: github
