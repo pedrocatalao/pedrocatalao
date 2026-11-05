@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="178" viewBox="0 0 480 178" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Weekly rhythm</title>
+<desc id="desc">Contributions per weekday over the last 12 months (5,024 in total): Mon 868, Tue 857, Wed 797, Thu 734, Fri 528, Sat 636, Sun 604. Busiest: Mon.</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+  .label { font-size: 13px; }
+  .value { font-size: 13px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .col { font-size: 9px; fill: #7d8590; letter-spacing: 0.02em; }
+  .secondary { fill: #9198a1; }
+  .muted { fill: #7d8590; }
+  .icon { fill: #9198a1; }
+  .fade { animation: fade 0.45s ease-out both; }
+  .grow { transform-box: fill-box; transform-origin: left center; animation: grow 0.9s cubic-bezier(.2,.7,.2,1) 0.15s both; }
+  .ring { animation: ring 1.2s cubic-bezier(.2,.7,.2,1) 0.2s both; }
+  .pop { transform-box: fill-box; transform-origin: center; animation: pop 0.4s ease-out 0.5s both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @keyframes pop { from { opacity: 0; transform: scale(0.6); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  .rise { transform-box: fill-box; transform-origin: bottom; animation: rise 0.7s cubic-bezier(.2,.7,.2,1) both; }
+  @keyframes rise { from { transform: scaleY(0); } }
+</style>
+<rect x="0.5" y="0.5" width="479" height="177" rx="6" fill="none" stroke="none"/>
+<text x="18" y="29" class="col">WEEKLY RHYTHM</text>
+<line x1="18" y1="150.5" x2="462" y2="150.5" stroke="#3d444d"/>
+<path class="rise" style="animation-delay: 200ms" d="M36.714285714285715 150V58Q36.714285714285715 54 40.714285714285715 54H58.714285714285715Q62.714285714285715 54 62.714285714285715 58V150Z" fill="#39d353"/><text x="49.714285714285715" y="167" text-anchor="middle" class="label secondary" style="font-size: 11px;">Mon</text>
+<path class="rise" style="animation-delay: 260ms" d="M100.14285714285714 150V59.216589861751146Q100.14285714285714 55.216589861751146 104.14285714285714 55.216589861751146H122.14285714285714Q126.14285714285714 55.216589861751146 126.14285714285714 59.216589861751146V150Z" fill="#39d353"/><text x="113.14285714285714" y="167" text-anchor="middle" class="label secondary" style="font-size: 11px;">Tue</text>
+<path class="rise" style="animation-delay: 320ms" d="M163.57142857142858 150V65.85253456221199Q163.57142857142858 61.852534562211986 167.57142857142858 61.852534562211986H185.57142857142858Q189.57142857142858 61.852534562211986 189.57142857142858 65.85253456221199V150Z" fill="#39d353"/><text x="176.57142857142858" y="167" text-anchor="middle" class="label secondary" style="font-size: 11px;">Wed</text>
+<path class="rise" style="animation-delay: 380ms" d="M227 150V72.82027649769586Q227 68.82027649769586 231 68.82027649769586H249Q253 68.82027649769586 253 72.82027649769586V150Z" fill="#39d353"/><text x="240" y="167" text-anchor="middle" class="label secondary" style="font-size: 11px;">Thu</text>
+<path class="rise" style="animation-delay: 440ms" d="M290.42857142857144 150V95.6036866359447Q290.42857142857144 91.6036866359447 294.42857142857144 91.6036866359447H312.42857142857144Q316.42857142857144 91.6036866359447 316.42857142857144 95.6036866359447V150Z" fill="#26a641"/><text x="303.42857142857144" y="167" text-anchor="middle" class="label secondary" style="font-size: 11px;">Fri</text>
+<path class="rise" style="animation-delay: 500ms" d="M353.8571428571429 150V83.6589861751152Q353.8571428571429 79.6589861751152 357.8571428571429 79.6589861751152H375.8571428571429Q379.8571428571429 79.6589861751152 379.8571428571429 83.6589861751152V150Z" fill="#26a641"/><text x="366.8571428571429" y="167" text-anchor="middle" class="label secondary" style="font-size: 11px;">Sat</text>
+<path class="rise" style="animation-delay: 560ms" d="M417.2857142857143 150V87.19815668202764Q417.2857142857143 83.19815668202764 421.2857142857143 83.19815668202764H439.2857142857143Q443.2857142857143 83.19815668202764 443.2857142857143 87.19815668202764V150Z" fill="#26a641"/><text x="430.2857142857143" y="167" text-anchor="middle" class="label secondary" style="font-size: 11px;">Sun</text>
+</svg>
