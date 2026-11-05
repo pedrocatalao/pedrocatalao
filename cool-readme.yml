@@ -11,5 +11,6 @@ contributions:
 summary:
   ring: github
 style: oled
-color: amber
-matrix: true
+color: theme
+matrix: false
+transparent: true
