@@ -10,3 +10,5 @@ contributions:
   hide: [anuraghazra/github-readme-stats]
 summary:
   ring: github
+style: oled
+color: theme
