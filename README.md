@@ -7,17 +7,17 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/summary-dark.svg">
-  <img src="stats/summary-light.svg" width="49%" alt="GitHub stats">
+  <img src="stats/summary-light.svg" width="400" alt="GitHub stats">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/languages-dark.svg">
-  <img src="stats/languages-light.svg" width="49%" alt="Most used languages">
+  <img src="stats/languages-light.svg" width="400" alt="Most used languages">
 </picture>
 </p>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/contributions-dark.svg">
-  <img src="stats/contributions-light.svg" width="49%" alt="Notable repo contributions">
+  <img src="stats/contributions-light.svg" width="400" alt="Notable repo contributions">
 </picture>
 </p>
 <!-- cool-readme:end -->
