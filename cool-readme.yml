@@ -11,4 +11,5 @@ contributions:
 summary:
   ring: github
 style: oled
-color: theme
+color: green
+matrix: false
