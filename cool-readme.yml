@@ -7,7 +7,6 @@ languages:
   exclude: [Batchfile, PHP, HCL, Jinja, JavaScript]
   other: false
 contributions:
-  count: 4
   hide: [anuraghazra/github-readme-stats]
 summary:
   ring: github
