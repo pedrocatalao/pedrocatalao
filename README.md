@@ -17,7 +17,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/contributions-dark.svg">
-  <img src="stats/contributions-light.svg" width="49%" alt="Notable contributions">
+  <img src="stats/contributions-light.svg" width="49%" alt="Notable repo contributions">
 </picture>
 </p>
 <!-- cool-readme:end -->
