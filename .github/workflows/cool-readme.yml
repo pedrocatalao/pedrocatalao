@@ -2,7 +2,8 @@
 name: Update README cards
 
 on:
-  # No schedule: the cards are off. Turn one on with setup to bring it back.
+  schedule:
+    - cron: '17 */2 * * *'   # every 2 hours
   workflow_dispatch:
 
 permissions:

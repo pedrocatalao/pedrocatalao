@@ -14,4 +14,4 @@ style: classic
 color: green
 matrix: true
 transparent: true
-cards: []
+cards: [summary, languages, contributions, weekly]
