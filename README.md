@@ -1,5 +1,6 @@
 
 <!-- cool-readme:start -->
+<!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/summary-dark.svg">
