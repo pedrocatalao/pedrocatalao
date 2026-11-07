@@ -1,17 +1,22 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: pedrocatalao
-include:
+show: [summary, languages, contributions, weekly, streaks, about]
+count:
   private: true
   orgs: true
-languages:
-  exclude: [Batchfile, PHP, HCL, Jinja, JavaScript]
-  other: false
-contributions:
-  hide: [anuraghazra/github-readme-stats]
-summary:
-  ring: github
-style: classic
-color: green
-matrix: true
-transparent: true
-cards: [summary, languages, contributions, weekly]
+look:
+  style: classic
+  color: github
+  background: none
+cards:
+  about:                  # the about card's text
+    headline: null        # shown large, e.g. "Hi, I'm pedrocatalao"
+    lines: []             # a line each, e.g. ["I build developer tools."]
+    facts: {}             # label: text, e.g. { Focus: Rust, Based in: Lisbon }
+  languages:
+    hide: [Batchfile, PHP, HCL, Jinja, JavaScript]
+    other: false
+  contributions:
+    hide: [anuraghazra/github-readme-stats]
+  summary:
+    ring: github
