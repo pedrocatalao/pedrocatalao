@@ -6,7 +6,7 @@ count:
   orgs: true
 look:
   style: classic
-  color: blue
+  color: github
   background: none
 cards:
   about:
