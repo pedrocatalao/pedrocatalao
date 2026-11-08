@@ -5,9 +5,9 @@ count:
   private: true
   orgs: true
 look:
-  style: dotmatrix
-  color: green
-  background: 070d09
+  style: oled
+  color: amber
+  background: none
 cards:
   about:
     headline: "Hi, I'm Pedro"
