@@ -1,6 +1,6 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: pedrocatalao
-show: [summary, languages, contributions, weekly]
+show: [summary, languages, contributions, streaks]
 count:
   private: true
   orgs: true
