@@ -5,8 +5,8 @@ count:
   private: true
   orgs: true
 look:
-  style: oled
-  color: amber
+  style: dotmatrix
+  color: red
   background: none
 cards:
   about:
