@@ -9,10 +9,13 @@ look:
   color: github
   background: none
 cards:
-  about:                  # the about card's text
-    headline: null        # shown large, e.g. "Hi, I'm pedrocatalao"
-    lines: []             # a line each, e.g. ["I build developer tools."]
-    facts: {}             # label: text, e.g. { Focus: Rust, Based in: Lisbon }
+  about:
+    headline: "Hi, I'm Pedro"
+    lines:
+      - "I've been diving into retro gaming"
+      - "I also fly planes and race cars"
+    facts:
+      "Based in": "Lisbon"
   languages:
     hide: [Batchfile, PHP, HCL, Jinja, JavaScript]
     other: false
