@@ -5,8 +5,8 @@ count:
   private: true
   orgs: true
 look:
-  style: dotmatrix
-  color: blue
+  style: classic
+  color: github
   background: none
 cards:
   about:
