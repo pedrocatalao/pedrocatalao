@@ -1,13 +1,13 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: pedrocatalao
-show: [about, summary, languages, contributions, weekly, streaks]
+show: [summary, languages, contributions, weekly]
 count:
   private: true
   orgs: true
 look:
-  style: classic
-  color: github
-  background: none
+  style: dotmatrix
+  color: green
+  background: 070d09
 cards:
   about:
     headline: "Hi, I'm Pedro"
