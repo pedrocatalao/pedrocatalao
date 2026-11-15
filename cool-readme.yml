@@ -6,8 +6,8 @@ count:
   orgs: true
 look:
   style: oled
-  color: purple
-  background: 0c0710
+  color: github
+  background: none
 cards:
   about:
     headline: "Hi, I'm Pedro"
