@@ -1,11 +1,11 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: pedrocatalao
-show: [summary, languages, contributions, streaks]
+show: [about, summary, languages, contributions, streaks, weekly]
 count:
   private: true
   orgs: true
 look:
-  style: oled
+  style: classic
   color: github
   background: none
 cards:
