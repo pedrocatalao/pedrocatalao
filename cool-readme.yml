@@ -5,9 +5,9 @@ count:
   private: true
   orgs: true
 look:
-  style: classic
-  color: github
-  background: none
+  style: oled
+  color: purple
+  background: 0c0710
 cards:
   about:
     headline: "Hi, I'm Pedro"
