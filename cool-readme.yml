@@ -5,7 +5,7 @@ count:
   private: true
   orgs: true
 look:
-  style: oled
+  style: floating
   color: github
   background: none
 cards:
