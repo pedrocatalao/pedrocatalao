@@ -23,3 +23,5 @@ cards:
     hide: [anuraghazra/github-readme-stats]
   summary:
     ring: github
+  downloads:
+    hide: [keyzerchief]   # "repo" or "owner/repo"
