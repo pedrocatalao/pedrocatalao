@@ -21,4 +21,14 @@
   <img src="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/streaks-light.svg" width="400" alt="Streaks">
 </picture>
 </p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/downloads-dark.svg">
+  <img src="https://raw.githubusercontent.com/pedrocatalao/pedrocatalao/cards/downloads-light.svg" width="400" alt="Most downloaded">
+</picture>
+</p>
 <!-- cool-readme:end -->
